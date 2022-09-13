@@ -1,3 +1,5 @@
+> This repo is outdated and not used by the team anymore
+
 # Yearn Marketing
 
 ## Contribute
